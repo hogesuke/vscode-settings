@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "file-icons",
+    "workbench.colorTheme": "Monokai",
+    "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+    "editor.trimAutoWhitespace": false,
+    "files.autoSaveDelay": 5000,
+    "terminal.integrated.fontSize": 10,
+    "editor.renderIndentGuides": true
+}
